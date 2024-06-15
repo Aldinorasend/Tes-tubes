@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuManager", "MenuManager\MenuManager.csproj", "{8110445F-F3E3-4FD1-9BB7-82BCE4B249D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderLibrary", "OrderLibrary\OrderLibrary.csproj", "{7A448DFC-34E2-4918-A7D5-62E073363575}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8110445F-F3E3-4FD1-9BB7-82BCE4B249D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8110445F-F3E3-4FD1-9BB7-82BCE4B249D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8110445F-F3E3-4FD1-9BB7-82BCE4B249D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A448DFC-34E2-4918-A7D5-62E073363575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A448DFC-34E2-4918-A7D5-62E073363575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A448DFC-34E2-4918-A7D5-62E073363575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A448DFC-34E2-4918-A7D5-62E073363575}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
